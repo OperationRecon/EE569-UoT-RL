@@ -17,10 +17,10 @@ sor race against past pre-trained weights by running `eval.py`
 
 ## Performance Showcase
 ### Random actions
- ![random actions](./imgs/start.mp4)
+ ![random actions](./imgs/start.gif)
 
 ### After Training
- ![trained](./imgs/end.mp4)
+ ![trained](./imgs/end.gif)
 
  attributions:
 - [Multi-Car Racing Gym Environment](https://github.com/igilitschenski/multi_car_racing) - Used for the multi-car racing environment.
