@@ -26,7 +26,7 @@ torch.set_default_device(device)
 
 # Enter the path of the saved model
 # Load the saved data
-checkpoint = torch.load('tweaked_reward.pth', weights_only=False)
+checkpoint = torch.load('weights/tweaked_reward.pth', weights_only=False)
 
 # Initialize the models
 model_1 = DQN().to(device)

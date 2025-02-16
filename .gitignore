@@ -1,1 +1,11 @@
 *Zone.Identifier
+deepL/*
+__pycache__/*
+imgs/*
+
+validator_class/*
+*.egg-info
+*/__pycache__/*
+*/runs
+*.cpython*
+*/__pycache__/*
